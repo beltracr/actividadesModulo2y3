@@ -1,0 +1,79 @@
+[
+
+    {
+
+        "nombre" : "mercedes",
+        "imagen" : "https://www.mercedes-benz.com.co/mercedes/site/artic/20230725/imag/foto_0000001120230725174029/AMG_BANNERS_640x400.jpg",
+        "precio" : 5.000000
+
+
+    },
+
+    {
+
+        "nombre" : "porshe",
+        "imagen" : "https://files.porsche.com/filestore/image/multimedia/none/992-gt3-rs-modelimage-sideshot/model/cfbb8ed3-1a15-11ed-80f5-005056bbdc38/porsche-model.png",
+        "precio" : 5.000000
+
+
+    },
+
+    {
+
+        "nombre" : "ferrari",
+        "imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQywP5qtcKalEuEVHf3tvcHkITn9OFIMTVdQ&s",
+        "precio" : 5.000000
+
+
+    },
+
+    {
+
+        "nombre" : "audi",
+        "imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDFxVG5j5J8Aoq7kb09tX-Ii7mK2iVxDaafA&s",
+        "precio" : 5.000000
+
+
+    },
+
+    {
+
+        "nombre" : "volvo",
+        "imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx7UNOPyfi2qMQUy59K0sh8ox5JJ2puDyY3w&s",
+        "precio" : 5.000000
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+]
